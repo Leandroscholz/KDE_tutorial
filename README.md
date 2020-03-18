@@ -1,7 +1,7 @@
 To use this tutorial, use conda and create the following environment
 
 ```
-conda create -n KDE_tutorial python=3.6 matplotlib scikit-learn numpy jupyter plotly
+conda create -n KDE_tutorial python=3.6 matplotlib scikit-learn numpy jupyter plotly pandas
 ```
 
 Activate environment (linux) with `source activate KDE_tutorial` 
